@@ -1,0 +1,31 @@
+/* PHASE 4: Footer */
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  width: 900px;
+  margin: auto;
+  color: gray;
+  padding: 20px;
+  background: white;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.footer-copy {
+
+}
+
+.footer-links {
+  display: flex;
+}
+
+.footer-links > li {
+  padding-left: 20px;
+}
+
+.footer-links > li:hover {
+  color: black;
+}
